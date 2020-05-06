@@ -11,8 +11,7 @@ String file = "\\myCode.txt";
 String path = new File("").getAbsolutePath();
 ```
 
-
----
 ## License & Copyright
-[MIT](https://github.com/pdeguayaba/nano-processor-java/blob/master/LICENSE)
-© Edwin J. Estrella Ayala
+[![License](https://img.shields.io/github/license/pdeguayaba/nano-processor-java)](https://github.com/pdeguayaba/nano-processor-java/blob/master/LICENSE)
+
+**© Edwin J. Estrella Ayala**
